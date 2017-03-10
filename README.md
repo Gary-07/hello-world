@@ -1,2 +1,5 @@
 # hello-world
-Sample repository
+
+Hi Humans
+
+Just making a small change
